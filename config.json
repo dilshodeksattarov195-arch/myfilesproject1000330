@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersarse",
+        "uuid": 427350,
+        "checksum": "38ztx"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
